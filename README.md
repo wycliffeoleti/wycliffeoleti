@@ -21,4 +21,4 @@ Python, C++, PyTorch, JAX, ROS 2, MoveIt 2, MuJoCo, computer vision, vision-lang
 
 #### Contact
 
-[LinkedIn](LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/wycliffe-oleti/)
